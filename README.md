@@ -2,7 +2,7 @@
 
 ## I'm a Researcher, Developer, and Self-learner!
 - 🔭 I’m currently working on a project of industrial robot
-- 🌱 I’m currently learning everything related to robotics and computer vision
+- 🌱 I’m currently learning everything related to robotics and quantum computing
 - ⚡ Fun fact: I love to make handwriting notes and carve woods.
 
 ### Connect with me:
