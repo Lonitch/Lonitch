@@ -1,9 +1,9 @@
 ### Hi there, I'm Sizhe - aka [Lonitch][website] 👋
 
 ## I'm a Researcher, Developer, and Self-learner!
-- 🔭 I’m currently working on a project of industrial robot
+- 🔭 I’m currently working on projects of smart manufacturing(self-transforming into a workaholic)
 - 🌱 I’m currently learning everything related to robotics and quantum computing
-- ⚡ Fun fact: I love to make handwriting notes and carve woods.
+- ⚡ Fun fact: I love latex but hate its inadequacy of being interactive.
 
 ### Connect with me:
 
