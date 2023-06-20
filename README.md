@@ -2,7 +2,7 @@
 
 ## I'm a Researcher, Developer, and Self-learner!
 - 🔭 Working on projects of smart manufacturing(work-related)
-- 🌱 Learning practical aspects of robotics programming and theoretical quantum computing
+- 🌱 Learning practical aspects of robotics programming (and quantum info maybe?)
 - ⚡ Still in love with latex but hate its inadequacy of being interactive.
 
 ### Connect with me:
