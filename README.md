@@ -5,13 +5,6 @@
 - 🌱 Learning practical aspects of robotics programming (and quantum info maybe?)
 - ⚡ Still in love with latex but hate its inadequacy of being interactive.
 
-### Connect with me:
-
-[<img align="left" alt="Lonitch.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Lonitch | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
 <br />
 <br />
 
