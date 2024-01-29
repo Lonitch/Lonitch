@@ -1,4 +1,4 @@
-### Hi there, I'm Sizhe - aka [Lonitch][website] 👋
+### Hi there, I'm [Lonitch][website] 👋
 
 ## I'm a Researcher, Developer, and Self-learner!
 - 🔭 Working on projects of smart manufacturing(work-related)
@@ -20,4 +20,3 @@
 <img align="left" alt="Lonitch's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lonitch&show_icons=true&hide_border=true&theme=synthwave" />
 
 [website]: https://lonitch.github.io/
-[linkedin]: https://linkedin.com/in/sizhe-liu
